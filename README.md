@@ -16,7 +16,7 @@ Tenho formação em Engenharia Mecânica pela Universidade Estadual do Oeste do 
 `HTML` `CSS` `JavaScript`
 
 **Cloud & ferramentas**
-`Azure` `Supabase` `Git` `SolidWorks`
+`Azure` `Supabase` `Git` `VSCode`
 
 **Modelagem**
 `Solidworks`

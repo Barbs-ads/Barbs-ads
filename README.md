@@ -1,29 +1,40 @@
-## Olá, sou a Barbara! 👋
+## Olá, sou a Barbara 👋
+**Engenharia Mecânica → Desenvolvimento de Software**
 
-Engenheira Mecânica com experiência em projetos industriais e estágio na **Itaipu Binacional**, 
-atualmente cursando **Desenvolvimento de Software Multiplataforma (DSM)** na FATEC.
+---
 
-Tenho interesse na interseção entre engenharia e tecnologia — automação, 
-sistemas industriais e desenvolvimento de software.
+Tenho formação em Engenharia Mecânica pela Universidade Estadual do Oeste do Paraná tendo feito estágio na **Itaipu Binacional**, atualmente curso **Desenvolvimento de Software Multiplataforma (DSM)** na FATEC. Tenho interesse em sistemas que cruzam engenharia e software.
 
-### 🔧 Habilidades Técnicas
+---
 
-**Desenvolvimento:**
-- HTML, CSS, JavaScript
-- SQL · Modelagem de Banco de Dados
-- Desenvolvimento Web
+### Stack atual
 
-**Engenharia & Design:**
-- SolidWorks (modelagem 3D e simulação)
-- AutoCAD
+**Back-end & dados**
+`Python` `Java (OOP)` `Node.js` `Express` `REST APIs` `MySQL` `PostgreSQL` `Estruturas de Dados`
 
-**Ferramentas:**
-- Git & GitHub
-- VS Code
+**Front-end**
+`HTML` `CSS` `JavaScript`
 
-### 🎓 Formação
-- **Tecnólogo em DSM** — FATEC (em andamento)
-- **Engenharia Mecânica** — [nome da faculdade]
+**Cloud & ferramentas**
+`Azure` `Supabase` `Git` `SolidWorks`
 
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Barbara_Alves-blue?logo=linkedin)](https://www.linkedin.com/in/barbara-alves-dos-santos-ba25044b)
+**Modelagem**
+`Solidworks`
+
+---
+
+### O que já construí
+
+No 1º semestre: lógica e programação em Python, CRUD completo com MySQL (Azure) e PostgreSQL (Supabase), e desenvolvimento web com HTML, CSS e JS.
+
+No 2º semestre: orientação a objetos em Java, estruturas de dados em Python, e APIs REST com Node.js + Express integradas a banco de dados.
+
+---
+
+### Formação
+- Tecnólogo em DSM — FATEC (em andamento)
+- Engenharia Mecânica — Unioeste
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Barbara_Alves-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-alves-dos-santos-ba25044b)

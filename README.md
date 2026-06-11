@@ -3,7 +3,9 @@
 
 ---
 
-Tenho formação em Engenharia Mecânica pela Universidade Estadual do Oeste do Paraná tendo feito estágio na **Itaipu Binacional**, atualmente curso **Desenvolvimento de Software Multiplataforma (DSM)** na FATEC. Tenho interesse em sistemas que cruzam engenharia e software.
+- Tenho formação em Engenharia Mecânica pela Universidade Estadual do Oeste do Paraná, tendo feito estágio na **Itaipu Binacional**. 
+- Atualmente curso **Desenvolvimento de Software Multiplataforma (DSM)** na FATEC.
+- Tenho interesse em sistemas que cruzam engenharia e software.
 
 ---
 

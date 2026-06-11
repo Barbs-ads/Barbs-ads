@@ -1,6 +1,6 @@
 ### Olá, sou a Barbara! 👋
 
-**Engenharia Mecânica** formada pela Universidade Estadual do Oeste do Paraná (UNIOESTE),
+Formada em **Engenharia Mecânica** pela Universidade Estadual do Oeste do Paraná (UNIOESTE),
 atualmente cursando **Desenvolvimento de Software Multiplataforma** na FATEC Franca 🎓
 
 ---
